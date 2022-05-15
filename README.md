@@ -37,10 +37,3 @@
 
 
 ---
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=214naxpwgxhbcsunkskprac4q&cover_image=false&theme=default&bar_color=3465a4&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
